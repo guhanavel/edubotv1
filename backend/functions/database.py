@@ -4,7 +4,7 @@ import json
 #import the requried modules
 import firebase_admin
 from firebase_admin import db, credentials
-from functions.prompt import PROMPT
+from functions.prompt import PROMPT, QNS_1
 
 
 
@@ -23,7 +23,7 @@ def get_recent_messages():
                         "content": PROMPT}
   # placeholder first question
   first_question = {"role": "user", 
-                    "content": "안녕하세요 이름이 뭐예요? (Annyeonghaseyo, ireumi mwoyeyo?)"}
+                    "content": QNS_1}
   # Initialize messages
   messages = []
 
@@ -81,6 +81,6 @@ def reset_messages():
   db.reference("/").delete()
   # append learning instruction into firebase db
   db.reference("/").update({"role": "system", 
-                        "content": "You are a Korean teacher and your name is Jeadok, the user are students taking Korean module. They will be using you to practise their conversation.Keep responses under 20 words. content from school slides These are the lesson materials for lesson 1: Slide 1: 무엇을 공부합니까? 제 1과 저는 회사원입니다, 1. 새 어휘: 직업, 2. 새 문법: ‐입니다,‐입니까? ,‐습니다,‐습니까?, Slide 2: 어휘: , Slide 3: 문법: -입니다, -입니까?, With a picture of a Kpop band: , 안녕하세요?, 에이핑크예요. ,저는 정은지예요.,저는 오하영이에요., 여러분, 만나서 반가워요!. You are limited to using content from these and your response should only be in Korean. In addition whenever the conversation goes out of scope, bring the user back to the lesson",
+                        "content": PROMPT,
                         "history":[]})
 

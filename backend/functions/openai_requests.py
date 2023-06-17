@@ -14,7 +14,6 @@ openai.api_key = config("OPEN_AI_KEY")
 def convert_audio_to_text(audio_file):
   try:
     transcript = openai.Audio.transcribe("whisper-1", audio_file)
-    print(transcript)
     message_text = transcript["text"]
     return message_text
   except Exception as e:

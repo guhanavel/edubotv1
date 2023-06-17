@@ -1,5 +1,6 @@
 import requests
 from decouple import config
+from functions.prompt import VOICE
 
 NARAKEET_KEY = config("NARAKEET")
 
@@ -7,7 +8,7 @@ NARAKEET_KEY = config("NARAKEET")
 #Convert Text to Speech
 
 def convert_text_to_speech(message):
-    voice = 'Seo-Yeon'
+    voice = VOICE
     
     options = {
         'headers': {

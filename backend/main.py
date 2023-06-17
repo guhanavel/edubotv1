@@ -7,6 +7,7 @@ from fastapi.responses import StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
 from decouple import config
 import openai
+from functions.prompt import PROMPT,QNS_1
 
 # Custom function imports
 from functions.text_to_speech import convert_text_to_speech
@@ -48,7 +49,7 @@ async def check_health():
 @app.get("/reset")
 async def reset_conversation():
     reset_messages()
-    return {"response": "conversation reset", "text":"안녕하세요 이름이 뭐예요? (Annyeonghaseyo, ireumi mwoyeyo?)" }
+    return {"response": "conversation reset", "text":QNS_1 }
 
 # convert audio to text for user input
 @app.post("/get-user-audio/")
@@ -120,12 +121,12 @@ async def get_audio2(request: Request):
 #initalize text
 @app.get("/start-question-text/")
 async def send_starter_text():
-    return {"text":"안녕하세요 이름이 뭐예요? (Annyeonghaseyo, ireumi mwoyeyo?)"}
+    return {"text":QNS_1}
 
 #initalize voice
 @app.get("/start-question-voice/")
 async def send_starter_voice():
-    text = "안녕하세요 이름이 뭐예요?"
+    text = QNS_1
     audio_output = convert_text_to_speech(text)
     #Guard: Ensure message decoded
     if not audio_output:
