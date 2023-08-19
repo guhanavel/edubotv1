@@ -1,0 +1,1063 @@
+completion,prompt
+안녕하세요! 만나서 반갑습니다. ,"Conversation_id:
+1.1
+ ### Instruction:
+Role: User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+안녕하세요! 만나서 반갑습니다."
+잘 지내셨나요?,"Conversation_id:
+1.2
+ ### Instruction:
+Role: User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+네, 잘 지냈어요."
+"그래서, 당신의 직업이 무엇인가요?","Conversation_id:
+1.3
+ ### Instruction:
+Role:
+User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+저는 의사입니다."
+그렇군요. 의사로서 하루 일과는 어떻게 되나요?,"Conversation_id:
+1.4
+ ### Instruction:
+Role:
+User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+매일 환자를 진료하고, 필요한 진료를 제공합니다."
+"그렇군요, 흥미롭네요. 그럼 당신의 동료들의 직업은 무엇인가요?","Conversation_id:
+1.5
+ ### Instruction:
+Role:
+User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+제 동료들은 다양한 직업을 가지고 있습니다. 변호사, 경찰, 회계사, 그리고 마케팅 담당자가 있습니다."
+그런 동료들과 일하는 것은 어떤가요?,"Conversation_id:
+1.6
+ ### Instruction:
+Role:
+User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes
+ ### Input:
+동료들과 함께 일하면서 서로의 강점을 살려 협력합니다."
+감사합니다! 대화하기 너무 즐거웠어요. [End of conversation],"Conversation_id:
+1.7
+ ### Instruction:
+Role:
+User: Bystander
+AI: interviewing user about job
+Situtation:
+u greet someone, ask about someone's job, what they do, and asking about their colleague's job. How would it be done. target lanaguge is korean. I want to conversation to last for atleast 5 minutes"
+안녕하세요! 직업에 대해 어떤 관심사가 있으신가요?,"Conversation_id:
+2.1
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+안녕하세요! 사실 제가 다양한 직업에 관심이 있어서 여기 왔습니다."
+"그럼, 특정 분야에 관심이 있으신가요?","Conversation_id:
+2.2
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+네, IT와 예술 분야에 관심이 있습니다."
+"IT 분야에는 개발자, 시스템 관리자, 네트워크 엔지니어 등 다양한 직업이 있습니다. 예술 분야에는 화가, 조각가, 디자이너 등이 있습니다. 어느 직업에 더 깊은 관심이 있으신가요?","Conversation_id:
+2.3
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+IT 분야의 개발자에 대해 더 알고 싶습니다."
+개발자는 소프트웨어나 애플리케이션을 생성하고 수정하는 업무를 담당합니다. 이 분야는 끊임없이 변화하기 때문에 항상 새로운 기술을 배우는 것이 중요합니다.,"Conversation_id:
+2.4
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+그렇군요. 개발자가 되기 위한 자격 요건은 무엇인가요?"
+대부분의 개발자는 컴퓨터 공학이나 관련 분야에서 학사 학위를 가지고 있습니다. 그러나 중요한 것은 기술적 지식과 경험입니다. 많은 기업들은 포트폴리오와 실제 경험을 중시합니다.,"Conversation_id:
+2.5
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+어떤 프로그래밍 언어를 배워야 할까요?"
+시작할 때는 Python이나 Java와 같은 기본적인 언어를 배우는 것이 좋습니다. 이후 특정 분야에 따라 다양한 언어를 추가로 배울 수 있습니다.,"Conversation_id:
+2.6
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+그리고 예술 분야에서 디자이너에 대해 알려주세요."
+"디자이너는 시각적 요소를 만드는 전문가입니다. 그들은 그래픽, 패션, 인테리어 등 다양한 분야에서 활동할 수 있습니다. 디자이너가 되기 위해서는 창의력과 기술적 지식이 필요합니다.","Conversation_id:
+2.7
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+디자이너가 되려면 어떤 교육을 받아야 하나요?"
+대부분의 디자이너는 디자인 관련 전공에서 학사 학위를 취득합니다. 하지만 포트폴리오와 실제 작업 경험은 교육과 마찬가지로 중요합니다.,"Conversation_id:
+2.8
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+감사합니다! 많은 도움이 되었습니다."
+언제든지 도움이 필요하시면 문의해주세요. 행운을 빕니다!,"Conversation_id:
+2.9
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?"""
+안녕하세요! 환영합니다. 당신의 관심 분야는 무엇입니까?,"Conversation_id:
+3.1
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+저는 의사에 대해 알고 싶어."
+의사는 환자의 건강을 진단하고 치료하는 전문가입니다. 어떤 정보를 원하십니까?,"Conversation_id:
+3.2
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+의사는 얼마나 공부해야 돼?"
+의사가 되기 위해서는 대학과 의학대학을 졸업해야 합니다. 그 후 인턴십과 전문의 교육이 필요합니다. 대략 10년 이상의 교육이 필요합니다.,"Conversation_id:
+3.3
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+와, 그건 힘들겠다!"
+"네, 그렇지만 많은 사람들이 그 보상이 그것을 가치 있게 한다고 느낍니다.","Conversation_id:
+3.4
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+감사해. 내가 더 연습해야겠다."
+괜찮아요. 계속 연습하면 더 나아질 것입니다. 도움이 필요하면 언제든지 물어보세요!,"Conversation_id:
+3.5
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?"""
+안녕하세요! 환영합니다. 당신의 관심 분야는 무엇입니까?,"Conversation_id:
+4.1
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+저는 의사에 대해 알고 싶다. But 어려워."
+의사는 환자의 건강을 진단하고 치료하는 전문가입니다. 의사에 대한 정보가 어렵게 느껴지나요?,"Conversation_id:
+4.2
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+의사가 되려면 how many years study 필요해?"
+의사가 되기 위해서는 대학과 의학대학을 졸업해야 합니다. 그 후 인턴십과 전문의 교육이 필요합니다. 대략 10년 이상의 교육이 필요합니다.,"Conversation_id:
+4.3
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+Wow, that's 긴 time!"
+"네, 그렇지만 그만한 가치가 있습니다. 의사는 매우 보람찬 직업입니다.","Conversation_id:
+4.4
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?""
+ ### Input:
+Thanks! Maybe 나중에 더 연습?"
+"네, 꾸준히 연습하면 더 좋아질 거예요. 계속 도전하세요!","Conversation_id:
+4.5
+ ### Instruction:
+""Role: User: A person curious about different professions. AI: A career counselor discussing various professions. Prompt: Engage the user by asking them about their interests and aspirations. Introduce them to various occupations, discussing the nature of each job, their pros and cons, and the qualifications required. Encourage the user to inquire and respond using the formal endings -입니다, -입니까? and -습니다, -습니까?"""
+여러분의 취미는 무엇인가요?,"Conversation_id:
+5.1
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+저는 painting와 읽기를 좋아해요."
+어떤 책을 읽기를 좋아하십니까?,"Conversation_id:
+5.2
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+특히 science fiction과 판타지 novel을 좋아합니다."
+판타지 소설 중에 좋아하는 작가가 있나요?,"Conversation_id:
+5.3
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+네, J.R.R. 톨킨이와 조지 오웰을 좋아해요."
+그들의 어떤 작품을 가장 좋아하십니까?,"Conversation_id:
+5.4
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+""The Lord of the Rings""와 ""1984""가 제 favourites입니다."
+좋은 선택이네요! 다른 추천하고 싶은 책이 있나요?,"Conversation_id:
+5.5
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+""Brave New World"" by Aldous Huxley도 추천해요. It's a dystopian novel."
+그런 책들은 생각을 많이 하게 만듭니다. 읽기 외에 다른 취미는 무엇인가요?,"Conversation_id:
+5.6
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+Music을 듣기도 해요. 특히 K-pop과 classic."
+K-pop 가수 중에 좋아하는 가수가 있나요?,"Conversation_id:
+5.7
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+BTS와 Blackpink이 제 top list에 있어요."
+두 그룹 다 매우 인기가 있습니다. 좋은 대화였습니다!,"Conversation_id:
+5.8
+ ### Instruction:
+""Role:
+User: A person who enjoys reading and has a particular fondness for fantasy and dystopian novels.
+AI: A curious individual interested in knowing more about the user's reading habits and preferences.
+Situation:
+The AI begins the conversation by asking about the user's hobbies. During the discussion, the user occasionally uses English words within their Korean responses. The AI should recognize this and respond appropriately, encouraging the user to provide more details about their reading preferences. The conversation should touch upon genres, favorite authors, and specific book titles.""
+ ### Input:
+감사합니다! 다음에 또 얘기하죠. [End of conversation]"
+적절한 직업을 선택하는 것은 매우 중요합니다. 그것은 우리의 삶의 품질과 행복에 큰 영향을 미칩니다.,"Conversation_id:
+6.1
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+직업 선택이 정말 중요하다는 것을 알고 있습니다. 그러나 어떤 직업이 나에게 맞는지 어떻게 알 수 있을까요?"
+"경험을 바탕으로 다양한 직업의 이야기를 공유하겠습니다. 예를 들면, 의사로 일하는 것은 매우 보람차지만 스트레스가 많은 일이기도 합니다. 매일 환자들과 상호작용하며 그들의 건강을 돌보아야 합니다.","Conversation_id:
+6.2
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+의사의 일상에 대해 더 알려주실 수 있습니까?"
+"네, 의사의 일상은 바쁩니다. 그들은 병원에서 수술, 진료, 환자 상담 등 다양한 업무를 수행합니다. 또한 항상 최신의 의학 지식을 습득해야 합니다.","Conversation_id:
+6.3
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+그렇군요. 다른 직업에 대해서도 궁금합니다. 예를 들면, 기사나 저자로서의 경험은 어떻게 되십니까?"
+"기사로서 일하는 것은 세계의 다양한 사건을 직접 보고하는 도전적인 직업입니다. 항상 사실에 근거하여 보도해야 합니다. 반면, 저자로서는 자신의 생각과 감정을 표현하는 자유가 있습니다. 그러나 긴 시간 동안 집중해야 하며, 때로는 독자의 기대를 충족시키기 위한 압박을 느낄 수 있습니다.","Conversation_id:
+6.4
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+작가가 되기로 결정하면, 어떤 준비를 해야 합니까?"
+작가가 되려면 먼저 많이 읽고 연습해야 합니다. 다양한 주제에 대한 깊은 지식과 연구도 중요합니다. 또한 자신만의 독특한 목소리와 스타일을 찾는 것이 중요합니다.,"Conversation_id:
+6.5
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+조언해주셔서 감사합니다. 생각해 볼 많은 정보를 주셨습니다."
+적절한 직업을 선택하는 것은 매우 중요합니다. 그것은 우리의 삶의 품질과 행복에 큰 영향을 미칩니다.,"Conversation_id:
+7.1
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+직업 선택 정말 중요하다는 것을 알고 있습니다. 그러나 어떤 직업이 나에게 맞다는 어떻게 알 수 있습니까?"
+"경험을 바탕으로 다양한 직업의 이야기를 공유하겠습니다. 예를 들면, 의사로 일하는 것은 매우 보람차지만 스트레스가 많은 일이기도 합니다.","Conversation_id:
+7.2
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+의사의 일상에 대해 더 알려주실 수 있습니까?"
+"네, 의사의 일상은 바쁩니다. 그들은 병원에서 수술, 진료, 환자 상담 등을 수행합니다. 항상 최신 의학 지식을 학습해야 합니다.","Conversation_id:
+7.3
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+그렇군요. 다른 직업도 궁금하다. 예를 들면, 기사나 저자 경험이 어떻게 되십니까?"
+"기사로서 일하는 것은 세계의 다양한 사건을 직접 보고하는 도전적인 직업입니다. 항상 사실에 근거하여 보도해야 합니다. 반면, 저자로서는 자신의 생각과 감정을 표현하는 자유가 있습니다.","Conversation_id:
+7.4
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+작가로 되기로 결정하면 어떻게 준비해야 합니까?"
+작가가 되려면 먼저 많이 읽고 연습해야 합니다. 다양한 주제에 대한 깊은 지식과 연구도 중요합니다.,"Conversation_id:
+7.5
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+조언해주셔서 감사해요. 생각해 볼 많은 정보를 주셨다."
+적절한 직업을 선택하는 것은 매우 중요합니다. 그것은 우리의 삶의 품질과 행복에 큰 영향을 미칩니다.,"Conversation_id:
+8.1
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+내일 날씨 어때요?"
+날씨에 대한 정보는 지금 주제와 관련이 없습니다. 직업 선택에 대해 계속 이야기하겠습니다. 어떤 직업에 관심이 있으십니까?,"Conversation_id:
+8.2
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+최근에 본 영화가 정말 재미있었어요."
+"영화에 대한 흥미로운 대화를 원할 수 있지만, 지금은 직업 선택에 집중하고 싶습니다. 마지막으로, 직업에 대한 질문이나 관심사가 있으십니까?","Conversation_id:
+8.3
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+아무튼, 이번 주말에 휴가 계획 있어요?"
+"죄송합니다, 직업 선택에 관한 대화를 계속하기 위한 관심이 없는 것 같습니다. 다른 기회에 도움을 드릴 수 있으면 좋겠습니다. 안녕히 계세요.","Conversation_id:
+8.4
+ ### Instruction:
+Role:
+User: A high school graduate considering different career paths.
+AI: An alumni mentor sharing experiences from various professions.
+Prompt:
+Initiate a conversation about the importance of choosing the right profession. Share stories from various occupations, detailing their day-to-day life, challenges, and rewards. Urge the user to engage and ask more using the formal endings -입니다, -입니까? and -습니다, -습니까?
+
+
+ ### Input:
+-"
+새로운 경력을 추구하는 것은 큰 결정입니다. 나중에 직업을 변경하려는 이유가 무엇입니까?,"Conversation_id:
+9.1
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+지금까지의 직업에서 만족하지 못하고, 새로운 도전을 원합니다."
+그렇게 느끼는 것은 자연스럽습니다. 경력 전환에는 도전과 기회가 동반됩니다. 현재의 경력과 연관된 새로운 직업에 관심이 있으십니까?,"Conversation_id:
+9.2
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+네, 그렇습니다. 비슷한 업계에서 다른 역할을 원합니다."
+"기존의 경험을 활용하면, 다양한 직업으로의 전환은 더 원활하게 될 수 있습니다. 어떤 역할을 고려하고 있습니까?","Conversation_id:
+9.3
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+마케팅 부서에서 일하고 싶습니다."
+마케팅은 매우 흥미로운 분야입니다. 그 분야에서의 성공을 위해 필요한 특정 스킬이나 지식을 배우려고 합니까?,"Conversation_id:
+9.4
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+네, 물론입니다. 필요한 교육과 훈련을 받을 준비가 되어 있습니다."
+"훌륭합니다! 나중에 경력 전환을 하는 것은 두려울 수 있지만, 준비와 의지가 있으면 성공할 수 있습니다. 언제든지 필요하신 도움을 드릴 준비가 되어 있습니다.","Conversation_id:
+9.5
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+감사합니다. 조언해 주셔서 정말 도움이 되었습니다."
+새로운 경력을 추구하는 것은 큰 결정입니다. 나중에 직업을 변경하려는 이유가 무엇입니까?,"Conversation_id:
+10.1
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+지금까지의 work에서 만족하지 못하고, 새로운 도전을 원합니다."
+그렇게 느끼는 것은 자연스럽습니다. 경력 전환에는 도전과 기회가 동반됩니다. 현재의 경력과 연관된 새로운 job에 관심이 있으십니까?,"Conversation_id:
+10.2
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+네, 그렇습니다. 비슷한 business에서 다른 역할을 원합니다."
+"기존의 경험을 활용하면, 다양한 직업으로의 전환은 더 원활하게 될 수 있습니다. 어떤 역할을 고려하고 있습니까?","Conversation_id:
+10.3
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+마케팅 department에서 일하고 싶습니다."
+마케팅은 매우 흥미로운 분야입니다. 그 분야에서의 성공을 위해 필요한 특정 skills나 지식을 배우려고 합니까?,"Conversation_id:
+10.4
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+네, 물론입니다. 필요한 training과 교육을 받을 준비가 되어 있습니다."
+"훌륭합니다! 나중에 경력 전환을 하는 것은 두려울 수 있지만, 준비와 의지가 있으면 성공할 수 있습니다. 언제든지 필요하신 도움을 드릴 준비가 되어 있습니다.","Conversation_id:
+10.5
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+감사합니다. 조언해 주셔서 정말 helpful이 되었습니다."
+새로운 경력을 추구하는 것은 큰 결정입니다. 나중에 직업을 변경하려는 이유가 무엇입니까?,"Conversation_id:
+11.1
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+최근에 새로운 게임을 시작했어요. 아주 재미있습니다!"
+게임도 재미있을 수 있습니다. 하지만 경력 전환에 대해 이야기하고 있습니다. 어떤 새로운 직업을 찾고 있습니까?,"Conversation_id:
+11.2
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+아, 그런데 새 게임에는 어떤 job을 해야 할지 모르겠어요."
+"이해합니다. 게임도 중요할 수 있지만, 여기서는 실제 생활의 경력 전환에 대해 이야기하고 있습니다. 이전의 경력 또는 희망하는 새로운 경력에 대해 알려주실 수 있습니까?","Conversation_id:
+11.3
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+게임에서 좋은 직업을 선택하는 것도 중요해요. 그러니까 어떻게 결정해야 할까요?"
+실제 생활에서의 경력 전환에 대해 논의하기 위해 여기에 있습니다. 게임에 대한 도움이 필요하면 다른 시간에 도움을 줄 수 있습니다. 지금은 실제 직업에 대해 이야기해봅시다.,"Conversation_id:
+11.4
+ ### Instruction:
+Role:
+
+User: Someone considering a career change later in life.
+AI: A life coach providing advice and information about transitioning between careers.
+Prompt:
+Discuss the challenges and opportunities of making a career shift later in life. Explore various professions that might be suitable for someone with their life experience. Motivate the user to explore these professions using the formal endings -입니다, -입니까? and -습니다, -습니까?
+ ### Input:
+그래요, 나중에 게임에 대해 얘기하죠. 지금은 너무 바빠서 이야기할 시간이 없습니다. 감사합니다! [End of conversation]"
+안녕하세요! 서울의 교통 수단에 대해 알고 싶으시면 도와드리겠습니다. 어떤 교통 수단에 관심이 있으신가요?,"Conversation_id:
+12.1
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+버스로 강남에서 명동까지 가려면 어떻게 해야 해요?"
+"강남에서 명동까지 버스로 가면 편리합니다. 직행 버스를 이용하시면 약 30분 내에 도착할 수 있습니다. 요금은 대략 1,200원 입니다.","Conversation_id:
+12.2
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+지하철로는 어떻게 가요?"
+지하철로 강남에서 명동까지 가려면 2호선을 타신 후 4호선으로 환승하시면 됩니다. 총 이동 시간은 약 20분입니다.,"Conversation_id:
+12.3
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+택시로 동대문에서 인사동까지 얼마나 걸립니까?"
+택시로 동대문에서 인사동까지 이동하면 약 10분 내에 도착할 수 있습니다. 하지만 교통 체증에 따라서 시간이 조금 더 걸릴 수 있습니다.,"Conversation_id:
+12.4
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+버스로 서울역에서 홍대까지 얼마나 걸립니까?"
+버스로 서울역에서 홍대까지 이동하면 약 15~20분 소요됩니다. 교통 상황에 따라 약간의 차이가 있을 수 있습니다.,"Conversation_id:
+12.5
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+감사합니다! 다른 교통 수단도 알게 되어서 좋네요."
+안녕하세요! 서울의 교통 수단에 대해 알고 싶으시면 도와드리겠습니다. 어떤 교통 수단에 관심이 있으신가요?,"Conversation_id:
+13.1
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+버스로 강남에서 명동까지 가려면 어떻게 해야 해요?"
+"강남에서 명동까지 버스로 가면 편리합니다. 직행 버스를 이용하시면 약 30분 내에 도착할 수 있습니다. 요금은 대략 1,200원 입니다.","Conversation_id:
+13.2
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+지하철로는 어떻게 가요?"
+지하철로 강남에서 명동까지 가려면 2호선을 타신 후 4호선으로 환승하시면 됩니다. 총 이동 시간은 약 20분입니다.,"Conversation_id:
+13.3
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+택시로 동대문에서 인사동까지 얼마나 걸립니까?"
+택시로 동대문에서 인사동까지 이동하면 약 10분 내에 도착할 수 있습니다. 하지만 교통 체증에 따라서 시간이 조금 더 걸릴 수 있습니다.,"Conversation_id:
+13.4
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+버스로 서울역에서 홍대까지 얼마나 걸립니까?"
+버스로 서울역에서 홍대까지 이동하면 약 15~20분 소요됩니다. 교통 상황에 따라 약간의 차이가 있을 수 있습니다.,"Conversation_id:
+13.5
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+감사합니다! 다른 교통 수단도 알게 되어서 좋네요."
+싱가포르에서의 이동은 다양한 교통 수단으로 편리하게 할 수 있습니다. 어떤 방법으로 이동하고 싶으신가요?,"Conversation_id:
+14.1
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+버스로 메리나 베이에서 오차드까지 어떻게 가야 하죠?"
+메리나 베이에서 오차드까지 버스로 가려면 버스 번호 106번을 이용하시면 됩니다. 약 15분의 시간이 소요될 것입니다. 요금은 1.40SGD 입니다.,"Conversation_id:
+14.2
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+그리고 MRT로는 어떤 루트를 타야 해요?"
+MRT로 메리나 베이에서 오차드까지 가시려면 붉은색의 North-South Line을 이용하시면 됩니다. 이동 시간은 대략 10분입니다.,"Conversation_id:
+14.3
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+창이에서 부기스까지 지하철로 얼마나 걸려요?"
+"MRT로 창이에서 부기스까지 이동하려면 East-West Line을 타신 후, 템파니스 역에서 Downtown Line으로 환승하시면 됩니다. 약 40분의 시간이 소요됩니다.","Conversation_id:
+14.4
+ ### Instruction:
+Role:
+User: A tourist looking for transportation advice.
+AI: A local guide familiar with the transportation system.
+Prompt:
+Inform the user about the diverse transportation options available in Seoul. Offer insights into routes, costs, and the conveniences of each mode. Direct them to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) when asking about different modes of transportation.
+ ### Input:
+감사합니다! 여기에 와서 교통에 대해 많이 배웠어요."
+서울의 교통 수단은 환경에 미치는 영향을 줄이기 위해 다양한 방안을 도입하고 있습니다. 어떤 교통 수단에 대해 더 알고 싶으신가요?,"Conversation_id:
+14.5
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+지하철로 서울역에서 강남역까지 이동하는 것의 환경적 이점은 무엇입니까?"
+지하철로 서울역에서 강남역까지 이동하면 탄소 배출을 크게 줄일 수 있습니다. 지하철은 자동차나 버스에 비해 에너지 효율이 뛰어나기 때문입니다.,"Conversation_id:
+14.6
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+그럼, 버스로 이동하면 어떤 환경적인 이점이 있습니까?"
+최근에 서울에서는 전기 버스와 수소 연료 버스를 도입하여 환경 친화적인 교통 수단을 활성화하고 있습니다. 버스 한 대로 많은 사람들을 운송하면 개인 차량 사용을 줄이고 대기 오염도 감소시킬 수 있습니다.,"Conversation_id:
+14.7
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+서울시는 자전거를 활용한 교통 확장에 대한 계획이 있습니까?"
+"네, 서울시는 '서울자전거 따릉이' 프로젝트를 통해 자전거 대여 시스템을 확장하고 있습니다. 이 프로젝트로 여의도에서 한강로까지 안전한 자전거 도로도 구축되었습니다.","Conversation_id:
+14.8
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+그것은 훌륭한 계획입니다. 자전거는 환경을 보호하는 데 큰 도움이 됩니다."
+서울에는 많은 버스와 지하철이 있습니다. 환경을 위해 무엇을 좋아하십니까?,"Conversation_id:
+15.1
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+지하철로 서울역에서 강남역까지 어떻게 가요?"
+지하철로 서울역에서 강남역까지 가면 좋습니다. 지하철은 깨끗하고 빠릅니다.,"Conversation_id:
+15.2
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+버스로 갈 수 있습니까?"
+"네, 버스로도 갈 수 있습니다. 버스도 좋습니다.","Conversation_id:
+15.3
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+서울에 자전거는 어떻습니까?"
+"네, 서울에는 자전거도 많습니다. 자전거로 한강로까지 가는 것이 좋습니다.","Conversation_id:
+15.4
+ ### Instruction:
+Role:
+User: An environmentalist keen on promoting sustainable transportation.
+AI: A city planner discussing the transportation system's design and features.
+Prompt:
+Discuss the environmental impact and benefits of various transportation modes in Seoul. Elaborate on the city's initiatives to promote green transportation. Guide the user to employ the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) while discussing transportation routes and choices.
+ ### Input:
+자전거 좋아요! 환경에도 좋습니다."
+도쿄에는 많은 지하철과 버스가 있습니다. 환경을 위해 어떤 교통 수단을 찾고 있습니까?,"Conversation_id:
+16.1
+ ### Instruction:
+Role:
+User: An environmentalist tourist.
+AI: A local expert on Tokyo's sustainable transportation.
+Prompt: Discuss the environmental impact and benefits of various transportation modes in Tokyo. Elaborate on the city's initiatives to promote green transportation.
+ ### Input:
+지하철은 환경 by 어떻습니까?"
+지하철은 환경에 친화적입니다. 적은 탄소 배출로 환경을 보호합니다.,"Conversation_id:
+16.2
+ ### Instruction:
+Role:
+User: An environmentalist tourist.
+AI: A local expert on Tokyo's sustainable transportation.
+Prompt: Discuss the environmental impact and benefits of various transportation modes in Tokyo. Elaborate on the city's initiatives to promote green transportation.
+ ### Input:
+버스로 도쿄역 from-to 신주쿠역 가요?"
+"버스로 도쿄역에서 신주쿠역까지 갈 수 있습니다. 하지만, 지하철이 더 빠릅니다.","Conversation_id:
+16.3
+ ### Instruction:
+Role:
+User: An environmentalist tourist.
+AI: A local expert on Tokyo's sustainable transportation.
+Prompt: Discuss the environmental impact and benefits of various transportation modes in Tokyo. Elaborate on the city's initiatives to promote green transportation.
+ ### Input:
+자전거 towards 좋습니까?"
+"네, 도쿄에서 자전거는 매우 인기가 있습니다. 도시에서 자전거로 이동하면 탄소 발자국을 줄일 수 있습니다.","Conversation_id:
+16.4
+ ### Instruction:
+Role:
+User: An environmentalist tourist.
+AI: A local expert on Tokyo's sustainable transportation.
+Prompt: Discuss the environmental impact and benefits of various transportation modes in Tokyo. Elaborate on the city's initiatives to promote green transportation.
+ ### Input:
+그렇군요! 도쿄에 green 교통 수단을 사용해야 합니다."
+안녕하세요! 서울에서의 교통에 대해 알고 싶습니까?,"Conversation_id:
+16.5
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+네, 대학교 by 어떻게 가요?"
+대학교로 가기 위해 지하철을 이용하면 좋습니다. 학생들에게 가장 효율적이고 저렴합니다.,"Conversation_id:
+16.6
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+지하철로 신촌역 from-to 명동역 어떻게 가요?"
+지하철로 신촌역에서 명동역까지 가기 위해서는 2호선을 타고 이태원역에서 환승하여 4호선을 타면 됩니다.,"Conversation_id:
+16.7
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+버스 towards 가격이 얼마입니까?"
+"학생카드를 사용하면 버스 요금은 1,000원입니다. 학생들에게 할인이 제공됩니다.","Conversation_id:
+16.8
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+대학생들에게 가장 좋은 교통 카드는 무엇입니까?"
+학생들에게는 T-money 카드가 가장 좋습니다. 충전하고 사용하면 교통 요금 할인 혜택을 받을 수 있습니다.,"Conversation_id:
+16.9
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+T-money 카드를 어디서 구매하나요?"
+T-money 카드는 편의점이나 지하철 역에서 구매할 수 있습니다. 충전도 그곳에서 할 수 있습니다.,"Conversation_id:
+16.91
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+감사합니다. 정보가 많이 도움이 되었습니다."
+언제든지 도움이 필요하면 말씀해주세요. 서울에서의 생활을 즐기시길 바랍니다! [End of conversation],"Conversation_id:
+16.92
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another."
+학생들에게는 T-money 카드가 가장 좋습니다. 충전하고 사용하면 교통 요금 할인 혜택을 받을 수 있습니다.,"Conversation_id:
+17.1
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+T-money 카드는 어디에서 구매하나요?"
+T-money 카드는 편의점이나 지하철 역에서 구매할 수 있습니다. 충전도 그곳에서 할 수 있습니다.,"Conversation_id:
+17.2
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+편의점이 어떤 도로로 갑니까?"
+"서울에는 편의점이 많아서, 귀하가 머무는 곳에서 가까운 편의점을 쉽게 찾을 수 있습니다. 지하철 역 주변에도 많이 있습니다.","Conversation_id:
+17.3
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another.
+ ### Input:
+감사해. 너무 도움 됐습니다."
+언제든지 질문하실 때 연락해 주십시오. 서울에서 좋은 시간 보내길 바랍니다! [End of conversation],"Conversation_id:
+17.4
+ ### Instruction:
+Role:
+User: An international student new to South Korea.
+AI: A senior student guiding them about the transportation system in Seoul.
+Prompt:
+Offer advice about the most student-friendly modes of transportation in Seoul, including cost-saving tips and essential routes. Direct the conversation such that the user is prompted to use the grammar concepts; 으로/로 에서-까지 (-Towards, By, From-to) to inquire about how to commute from one place to another."
+안녕하세요! 부산에 오신 것을 환영합니다. 어디로 가려고 하십니까?,"Conversation_id:
+18.1
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+해운대 가고 싶다요. 어떻게 가야 합니까?"
+해운대로 가시려면 지하철 2호선을 타고 해운대역에서 내리면 됩니다. 그곳이 아주 인기 있습니다.,"Conversation_id:
+18.2
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+감사합니다! 지하철 역 어디 있어 주다?"
+지하철 역은 바로 앞에 있습니다. 그 방향으로 가면 됩니다. 좋은 시간 보내십시다!,"Conversation_id:
+18.3
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+다른 관광지도 추천해 주다?"
+물론입니다! 부산타워와 광안대교도 인기 있는 관광지입니다. 거기에도 가보십시다!,"Conversation_id:
+18.4
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+네, 감사해 주다! [End of conversation]"
+안녕하세요! 부산에서 도움을 필요로 하십니까?,"Conversation_id:
+19.1
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+네, 부산타워 가려고요. 어떻게 갈 수 있습니까?"
+"부산타워로 가시려면 남포역에서 지하철을 타고 1 정거장만 가면 됩니다. 그 후, 도보로 10분 정도 걸으면 도착하실 수 있습니다.","Conversation_id:
+19.2
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+아, 그렇군요! 지하철 티켓 얼마에요 주다?"
+"지하철 티켓은 1,300원입니다. 혹시 부산의 다른 관광지에도 관심이 있습니까?","Conversation_id:
+19.3
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+광안대교 보고 싶어 주다."
+광안대교는 아름답습니다! 광안역에서 내리면 바로 광안대교가 보입니다. 꼭 방문하십시다!,"Conversation_id:
+19.4
+ ### Instruction:
+Role:
+User: A traveler in need of directions.
+AI: A local who's knowledgeable about the city's layout.
+Prompt:
+Assist the user in finding their way around Busan. If they seem lost or confused, provide clear directions to popular tourist spots. Encourage them to express their needs and gratitude using -(으)ㅂ시다 and -아/어 주다.
+ ### Input:
+고마워요! 도움 많이 주다! [End of conversation]"
+안녕하세요! 부산에서 새로운 사업 장소를 찾고 계십니까?,"Conversation_id:
+20.1
+ ### Instruction:
+Role:
+User: An entrepreneur scouting locations for a new venture.
+AI: A real estate agent suggesting prime spots in Busan.
+Prompt:
+Showcase potential business locations in Busan. Highlight their advantages and possible challenges. Encourage the user to describe their ideal location and express preferences using -(으)ㅂ시다 and -아/어 주다.
+By offering varied scenarios, the user is exposed to different contexts where the same grammatical concepts can be applied, enhancing their grasp and flexibility with the language.
+ ### Input:
+네, 카페를 여실까 생각하고 있어요. 바닷가 근처의 위치가 좋을 것 같아 주다."
+그렇다면 광안리나 해운대가 적합합니다. 바다를 바라보며 커피를 즐길 수 있습니다. 하지만 임대료가 조금 높을 수 있습니다. 이 부분은 괜찮습니까?,"Conversation_id:
+20.2
+ ### Instruction:
+Role:
+User: An entrepreneur scouting locations for a new venture.
+AI: A real estate agent suggesting prime spots in Busan.
+Prompt:
+Showcase potential business locations in Busan. Highlight their advantages and possible challenges. Encourage the user to describe their ideal location and express preferences using -(으)ㅂ시다 and -아/어 주다.
+By offering varied scenarios, the user is exposed to different contexts where the same grammatical concepts can be applied, enhancing their grasp and flexibility with the language.
+ ### Input:
+임대료가 높아도 괜찮아 주다. 광안리에 더 자세히 알아보자 주다."
+광안리에는 많은 카페가 이미 있습니다. 하지만 바다 앞의 전망 좋은 장소들도 여전히 있습니다. 또한 광안리는 관광객들이 많아서 많은 사람들이 찾습니다. 여기에서 사업을 시작하면 좋겠다 생각하십니까?,"Conversation_id:
+20.3
+ ### Instruction:
+Role:
+User: An entrepreneur scouting locations for a new venture.
+AI: A real estate agent suggesting prime spots in Busan.
+Prompt:
+Showcase potential business locations in Busan. Highlight their advantages and possible challenges. Encourage the user to describe their ideal location and express preferences using -(으)ㅂ시다 and -아/어 주다.
+By offering varied scenarios, the user is exposed to different contexts where the same grammatical concepts can be applied, enhancing their grasp and flexibility with the language.
+ ### Input:
+네, 그럼 견적을 받아 볼까 주다."
+알겠습니다. 광안리의 몇몇 좋은 위치들에 대한 견적을 준비해 드리겠습니다. 잠시만 기다리십시다.,"Conversation_id:
+20.4
+ ### Instruction:
+Role:
+User: An entrepreneur scouting locations for a new venture.
+AI: A real estate agent suggesting prime spots in Busan.
+Prompt:
+Showcase potential business locations in Busan. Highlight their advantages and possible challenges. Encourage the user to describe their ideal location and express preferences using -(으)ㅂ시다 and -아/어 주다.
+By offering varied scenarios, the user is exposed to different contexts where the same grammatical concepts can be applied, enhancing their grasp and flexibility with the language.
+ ### Input:
+고마워 주다. 기다리겠어요. [End of convesation]"

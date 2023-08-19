@@ -2,12 +2,15 @@ import { useEffect, useState } from "react";
 import Title from "./Title";
 import axios from "axios";
 import RecordMessage from "./RecordMessage";
+import Next from "./Next";
 
 
 const Controller = () => {
   // initial state
   const [isLoading, setIsLoading] = useState(false);
   const [messages, setMessages] = useState<any[]>([]);
+
+ 
 
 
   // create function called createBlobUrl to convert any audio to Blob
@@ -23,8 +26,8 @@ const Controller = () => {
     const fetchData = async () => {
       try {
         setIsLoading(true);
-        const response_text = await fetch('http://localhost:8000/start-question-text');
-        const response_audio = await fetch('http://localhost:8000/start-question-voice');
+        const response_text = await fetch('http://localhost:8000/level-1-text');
+        const response_audio = await fetch('http://localhost:8000/level-1-voice');
         const data = await response_text.json();
         const blob = await response_audio.blob();
         const audio = new Audio();
@@ -33,7 +36,7 @@ const Controller = () => {
         const newMessageArr = [...messages, initialMessage];
         setMessages(newMessageArr);
         setIsLoading(false);
-        audio.play();
+        //audio.play();
       } catch (error) {
         console.error('Error fetching data:', error);
       }
@@ -42,7 +45,28 @@ const Controller = () => {
     fetchData();
   }, []);
  
+  // create a function handle Next to release the questions
+  const handleNext = async () => {
+    try {
+      setIsLoading(true);
+      const question_1_text = await fetch('http://localhost:8000/level-2-question-text');
+      const question_1_voice = await fetch('http://localhost:8000/level-2-question-voice');
+      // convert the calls to json and blob files
+      const data = await question_1_text.json();
+      const blob = await question_1_voice.blob();
+      const audio = new Audio();
+      audio.src = createBlobURL(blob);
+      const qnsMessage = { sender: "Question 1", blobUrl: audio.src, text: data.text };
+      const nextMessageArr = [...messages, qnsMessage];
+      setMessages(nextMessageArr);
+      setIsLoading(false);
+      //audio.play();
 
+    } catch (error) {
+      console.error('Error fetching data:', error);
+    }
+  };
+  
 
   // when the recording stops, infomation will start processing here
   const handleStop = async (blobUrl: string) => {
@@ -131,15 +155,18 @@ const Controller = () => {
       key={index + audio.sender}
       className={
         "flex flex-col " +
-        (audio.sender == "edubot" ? "flex items-end" : "")
+        (audio.sender == "me" ? "flex items-end" : "")
       }
+      
     >
+      
       {/* Sender */}
       <div className="mt-4">
         
+        
         <p
           className={
-            audio.sender == "edubot"
+            audio.sender == "me"
               ? "text-left mr-2 italic text-green-500"
               : "ml-2 italic text-blue-500"
           }
@@ -153,37 +180,56 @@ const Controller = () => {
           className="appearance-none"
           controls
         />
+        
       </div>
 
       {/* Text Message */}
       <div className="mt-4">
         <p>{audio.text}</p>
+        
       </div>
+    
     </div>
+    
   );
 })}
           {messages.length == 0 && !isLoading && (
             <div className="text-center font-light italic mt-10">
               Send Edubot a message...
+              
             </div>
+            
           )}
 
           {isLoading && (
             <div className="text-center font-light italic mt-10 animate-pulse">
               Gimme a few seconds...
+              
             </div>
           )}
         </div>
+        <div className="flex justify-center items-center w-full">
+          
+        </div>
+        
+        
 
         {/* Recorder */}
         <div className="fixed bottom-0 w-full py-6 border-t text-center bg-gradient-to-r from-sky-500 to-green-500">
-          <div className="flex justify-center items-center w-full">
+        
+        <div className="flex justify-center items-center w-full">
+          
             <div>
               <RecordMessage handleStop={handleStop} />
+              
             </div>
           </div>
+            <Next handleNext={handleNext} />
         </div>
+        
+        
       </div>
+      
     </div>
   );
 };

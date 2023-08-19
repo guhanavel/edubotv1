@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bionic-carving-320116",
+  "private_key_id": "6202719d5bef954b078e67fb6434ccae9da050ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDG10fjH5R6ULGC\nfYEvck083iErlWpSO1CzKJZ7reFCVK0tu4yoToQLSZSWytXFdn6rs8rqnvX1SPZM\nHPqfMz8ve8eS5taQhnCaYAMzQM12QTpEqTp56ZyAP11HiBlwZrax1ztJeTQPiGCT\nh0CZZVyZNjhu8ez1WZlBN64+kcdPO4LXbBwIPrQ90puss3x72XZVaIJczVaxjuO+\nn8dhrlrZQTEqEMybTa6BdDuZHBwp8hbu2qgTHXlCu6to2LbqHOA+UEYBctebM3Pn\nxUXQiUzIMAsEC2imeAVkM17Vffi0MQ1E57p0WjxnR9S/ivM+jwzXxWOh/n5M/UNw\nNspgtXnJAgMBAAECggEAKwBRppekx5L94Id90aH5fClZqRBGDwSO3j/v0012Qp8H\nWLWPpLJeMga2oKm681o96KoYPwcjj+k4gptdw+IUTxOIxIcxbc31Oh17c7EW/fT7\nQfALGmRgGQgbByYywjEkX295fdk9XgKTSDRezw2xqdyk9bFSGnlHAGinQRbLsKF/\nWE4iEKS/bN0fssvEbKoKpURNqDErOH/wljivnUv8MEEXSfoluKwo0IXcndJ4aFET\n1uKXLGRmr9AzSZXpPMem24BQHB/7KKKI1NxvBmTuu9UdNYJbby7zddRlc8lVQj7N\nq0Gh9IevqcsVV+bOgZbd/gUp3Jcx+lsbGnuQbHrQNQKBgQDvRkmnA4W8di14yzZX\njp6absbwU8LLcCx6yun1wSQQkBMOK0ecF27G55UtDnRax8v9m/0YiZGlYr3An5xA\nMU5/Ct+bVSE+n2DY4lBu2KBHVhRopjJmoCB7wwcvorVdHGv8hv2K9uVuGcDxPDf3\n6Dj7MGqBAuH3y6J/lAt/w38JqwKBgQDUvXONFO2Qj0MVMN18V2k4SPuBTOxaoxmG\nsrLE7fH/Ebknb/nNGjBpeeyxBQb6EUGRtgVZ8jVFSR4jitg88gxb1WdRPNpzvudC\nuX+t5bjYowrDWwULmzAq8yky7xt1r++xyUCqPW5fQ4+cRlMHUtfo7L+V/JoakmLQ\nCqZjoUEeWwKBgQCNxmf9veiQMrXezQn191uixeC6pebWBDFW0MSwCTEFX1jrHFnh\n80CAOtf5SodHAvur2bGtyFW0WT111R0QLCcGv7qen2KDaIxJ9k8SXukZW7fcCh3z\nEQ4uRvELGK297glOJ+4zWPe4tSnNxpCjI8YfkCCLMNoTqWUvktj9ayjq4QKBgFsk\n59Kz+qwKlOUJUHsrQAs7SXW2LTUP16nb+bdhcmKjhz4cPVvgMomeEQgubTTKG9t/\nrn9AxA3xK5Zyr/48fYsCvQcTGUypp47wxoEMgMtf3wafgmPckyBzmV0XEB61x+3V\nmXzWYOkzmt2LS5tBpPtIIzTxSlzEBs23Il5hAfMtAoGBAKWFTHG+iqgqPS2mycNX\n5/OH1BFJewOdRXYdnPunhE7ZCe2J6ayaD7FZCokcPtiwQti4qb72ySf2fzVNhlR7\nQmMo+I3bnmu7nTOtAM5ZCgDgofDxkG/+rjtPc+Fby6JYLDOUt/HhH6HBXgyKi8zy\n9OgK1g/Ghe/or8++PBm0h8Ct\n-----END PRIVATE KEY-----\n",
+  "client_email": "edubot@bionic-carving-320116.iam.gserviceaccount.com",
+  "client_id": "113670438856713054221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edubot%40bionic-carving-320116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
